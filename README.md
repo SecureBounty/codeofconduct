@@ -32,7 +32,7 @@ Respect the decisions made by project maintainers. They have the final say on ac
 
 ### 8. Reporting Incidents
 
-If you experience or witness any behavior that violates this Code of Conduct, please report it to the organization administrators at contact.securebounty@gmail.com(mailto:contact.securebounty@gmail.com). All reports will be treated with confidentiality and will be promptly addressed.
+If you experience or witness any behavior that violates this Code of Conduct, please report it to the organization administrators at [contact.securebounty@gmail.com](contact.securebounty@gmail.com). All reports will be treated with confidentiality and will be promptly addressed.
 
 ### 9. Consequences of Violation
 
